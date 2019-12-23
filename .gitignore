@@ -1,0 +1,16 @@
+*.idea
+build/
+node_modules/
+finance_data/
+finance_data_AprilMonth/
+finance_Data_29-05/
+constants/dgConstants.js
+constants/elasticSchemaConstants.js
+logs/
+backenddg/log/
+.eslintrc.js
+backupFiles/
+.idea/inspectionProfiles/
+financeManually.txt
+.idea/
+log/

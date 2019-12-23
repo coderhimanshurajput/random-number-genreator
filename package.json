@@ -1,0 +1,19 @@
+{
+  "name": "unique-random-number",
+  "version": "1.0.0",
+  "description": "how to create unique random number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrsoftengr/random-number-genreator.git"
+  },
+  "author": "Himanshu Rajput <himanshurajput56@gmail.com> (www.himanshurajput.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrsoftengr/random-number-genreator/issues"
+  },
+  "homepage": "https://github.com/hrsoftengr/random-number-genreator#readme"
+}
